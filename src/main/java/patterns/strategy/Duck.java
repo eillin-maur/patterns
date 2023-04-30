@@ -6,6 +6,7 @@ public class Duck {
     public Duck() {
 
     }
+
     public void run() {
         System.out.println("I am run!");
     }
